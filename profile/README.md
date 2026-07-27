@@ -2,7 +2,7 @@
   <img src="./banner.png" alt="Fructa Security" width="100%">
 </p>
 
-<h1 align="center">Fructa Security</h1>
+<h1 align="center">Fructa Trade Vulnerability Disclosure Program</h1>
 
 <p align="center">
   Vulnerability disclosure, triage and remediation.
